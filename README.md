@@ -6,9 +6,9 @@
   <tr>
     <th>Product Description</th>
   </tr>
-  <tr><td><img src="Google/AI.svg" width=5%> Google AI</td></tr>
-  <tr><td><img src="Google/Google.png" width=5%></td></tr>
-  <tr><td><img src="Google/Google.png" width=5%></td></tr>
-  <tr><td><img src="Google/Google.png" width=5%></td></tr>
-  <tr><td><img src="Google/Google.png" width=5%></td></tr>
+  <tr><td><img src="Google/AI.svg" width=4%> <h3>Google AI</h3></td></tr>
+  <tr><td><img src="Google/Google.png" width=4%></td></tr>
+  <tr><td><img src="Google/Google.png" width=4%></td></tr>
+  <tr><td><img src="Google/Google.png" width=4%></td></tr>
+  <tr><td><img src="Google/Google.png" width=4%></td></tr>
 </table>
