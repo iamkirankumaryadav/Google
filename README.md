@@ -4,12 +4,11 @@
 
 <table align=center>
   <tr>
-    <th>Product</th>
-    <th>Description</th>
+    <th>Product Description</th>
   </tr>
-  <tr><td><img src="Google/AI.svg" width=7%></td><td></td></tr>
-  <tr><td><img src="Google/Google.png" width=7%></td><td></td></tr>
-  <tr><td><img src="Google/Google.png" width=7%></td><td></td></tr>
-  <tr><td><img src="Google/Google.png" width=7%></td><td></td></tr>
-  <tr><td><img src="Google/Google.png" width=7%></td><td></td></tr>
+  <tr><td><img src="Google/AI.svg" width=5%> Google AI</td></tr>
+  <tr><td><img src="Google/Google.png" width=5%></td></tr>
+  <tr><td><img src="Google/Google.png" width=5%></td></tr>
+  <tr><td><img src="Google/Google.png" width=5%></td></tr>
+  <tr><td><img src="Google/Google.png" width=5%></td></tr>
 </table>
