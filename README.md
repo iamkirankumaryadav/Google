@@ -2,8 +2,8 @@
 
 <h3 align=center>Google for Data Science, Artificial Intelligence, Data Analytics and Marketing</h3>
 
-<table align=center>
-  <tr><th>Product</th><th>Description</th></tr>
+<table align=center width=100%>
+  <tr><th width = 20%>Product</th><th>Description</th></tr>
   <tr><td><img src="Google/AI.svg" width=4%></td><td><h3>Google AI</h3> : A Division of Google Dedicated to Artificial Intelligence.</td></tr>
   <tr><td><img src="Google/Google.png" width=4%></td><td><h3>Google AI</h3></td></tr>
   <tr><td><img src="Google/Google.png" width=4%></td><td><h3>Google AI</h3></td></tr>
