@@ -4,7 +4,7 @@
 
 <table align=center width=100%>
   <tr><th width = 20%>Product</th><th>Description</th></tr>
-  <tr style="text-align:center"><td><img src="Google/AI.svg" width=50%></td><td><h3>Google AI : A Division of Google Dedicated to Artificial Intelligence.</h3></td></tr>
+  <tr><td><img src="Google/AI.svg" width=50% style="align-self:center"></td><td><h3>Google AI : A Division of Google Dedicated to Artificial Intelligence.</h3></td></tr>
   <tr><td><img src="Google/Google.png" width=4%></td><td><h3>Google AI</h3></td></tr>
   <tr><td><img src="Google/Google.png" width=4%></td><td><h3>Google AI</h3></td></tr>
   <tr><td><img src="Google/Google.png" width=4%></td><td><h3>Google AI</h3></td></tr>
