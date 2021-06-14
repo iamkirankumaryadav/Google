@@ -16,3 +16,13 @@ Ingestion > Data Lake > Preparation and Computation > Data Warehouse > Presentat
 
 2. `MQTT` 
 - Message Queuing Telementry Transport, light weight, publish subscribe network protocol that transports messages between devices.
+
+MQTT | HTTP
+:--- | :---
+Message Queuing Telementry Transport | Hypertext Transper Protocol
+Data Centric | Document Centric
+Publish ( Sender ) - Subscribe ( Receiver ) Model | Client - Server Model
+IOT Interaction | World Wide Web ( Control, Format and Represent Web Page )
+Transmission Control Protocol ( TCP ) | User Datagram Protocol ( UDP )
+Binary Format Data | ASCII Format Data 
+SSL / TLS for Data Security |  HTTPS for Data Security
