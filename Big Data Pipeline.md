@@ -8,6 +8,29 @@ Ingestion > Data Lake > Preparation and Computation > Data Warehouse > Presentat
 - A fully managed service to easily and securely connect, manage, and ingest data from globally dispersed devices.
 - A complete solution for collecting, processing, analyzing and visualizing IoT data in real time to support improved operational efficiency.
 
+### Cloud Function
+- Scalable pay as you use functions as a service ( `FaaS` ) to run your code with zero server management.
+- No servers to provision, manage, or upgrade.
+- Automatically scale based on the load.
+- Integrated monitoring, logging, and debugging capability.
+- Built-in security at role and per function level based on the principle of least privilege.
+- Key networking capabilities for hybrid and multi-cloud scenarios.
+
+### Pub Sub
+- A fully managed real time messaging service that allows you to send and receive messages between independent applications.
+
+# Data Lake 
+
+### Cloud Storage 
+- Object storage for companies of all sizes. 
+- Store any amount of data. 
+- Retrieve it as often as you’d like.
+- Worldwide accessibility and worldwide storage locations.
+- Low latency and high durability.
+
+# Preparation and Computation
+
+### Data Proc
 
 ### Appendix 
 
@@ -16,6 +39,9 @@ Ingestion > Data Lake > Preparation and Computation > Data Warehouse > Presentat
 
 2. `MQTT` 
 - Message Queuing Telementry Transport, light weight, publish subscribe network protocol that transports messages between devices.
+
+3. `Provision`
+- Action of providing or supplying something for use.
 
 MQTT | HTTP
 :--- | :---
