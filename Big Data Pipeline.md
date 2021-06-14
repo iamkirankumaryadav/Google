@@ -4,6 +4,11 @@ Ingestion > Data Lake > Preparation and Computation > Data Warehouse > Presentat
 
 # Ingestion
 
+### Cloud IoT
+- A fully managed service to easily and securely connect, manage, and ingest data from globally dispersed devices.
+- A complete solution for collecting, processing, analyzing and visualizing IoT data in real time to support improved operational efficiency.
+
+
 ### Appendix 
 
 1. `Dispersed` 
@@ -11,7 +16,3 @@ Ingestion > Data Lake > Preparation and Computation > Data Warehouse > Presentat
 
 2. `MQTT` 
 - Message Queuing Telementry Transport, light weight, publish subscribe network protocol that transports messages between devices.
-
-### Cloud IoT
-- A fully managed service to easily and securely connect, manage, and ingest data from globally dispersed devices.
-- A complete solution for collecting, processing, analyzing and visualizing IoT data in real time to support improved operational efficiency.
