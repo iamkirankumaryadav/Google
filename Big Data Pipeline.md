@@ -4,7 +4,10 @@ Ingestion > Data Lake > Preparation and Computation > Data Warehouse > Presentat
 
 # Ingestion
 
-Appendix : `Dispersed` ( spread over a wide area )
+### Appendix 
+
+1. `Dispersed` : Spread over a wide area.
+2. `MQTT` : Message Queuing Telementry Transport, light weight, publish subscribe network protocol that transports messages between devices.
 
 ### Cloud IoT
 - A fully managed service to easily and securely connect, manage, and ingest data from globally dispersed devices.
