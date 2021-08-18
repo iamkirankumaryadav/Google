@@ -2,6 +2,12 @@
 
 <h3 align=center>Google for Data Science, Artificial Intelligence, Data Analytics and Marketing</h3>
 
+Colors 
+
+```html
+Red = #EA4335
+```
+
 <table align=center width=100%>
   <tr><th width = 10%><h3>Product</h3></th><th><h3>Name</h3></th><th><h3>Description</h3></th></tr>
   <tr><td><a href="https://ai.google/" target="_blank"><img src="Google/AI.svg"></a></td><td><h4>Google AI</h4></td><td><h4>A Division of Google Dedicated to Artificial Intelligence.</h4></td></tr>
