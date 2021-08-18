@@ -2,8 +2,6 @@
 
 <h3 align=center>Google for Data Science, Artificial Intelligence, Data Analytics and Marketing</h3>
 
-Colors 
-
 ```html
 Blue    #4285F4
 Red     #EA4335 
