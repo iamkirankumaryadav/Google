@@ -4,8 +4,17 @@
 
 ```html
 Blue    #4285F4
+```
+
+```
 Red     #EA4335 
+```
+
+```
 Yellow  #FBBC05
+```
+
+```
 Green   #34A853
 ```
 
