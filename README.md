@@ -5,7 +5,7 @@
 Colors 
 
 ```html
-Red = #EA4335
+Blue = #4285F4 | Red = #EA4335 | Yellow = #FBBC05 | Green = #34A853
 ```
 
 <table align=center width=100%>
