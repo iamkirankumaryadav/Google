@@ -19,7 +19,7 @@ Green   #34A853
 ```
 
 <table align=center width=100%>
-  <tr><th width = 10%><h2>Product</h2></th><th><h2>Name</h2></th><th><h2>Description</h2></th></tr>
+  <tr><th width = 10%><h4>Product</h4></th><th><h4>Name</h4></th><th><h4>Description</h4></th></tr>
   <tr><td><a href="https://ai.google/" target="_blank"><img src="Google/AI.svg"></a></td><td><h4>Google AI</h4></td><td><h4>A division of Google dedicated to Artificial Intelligence.</h4></td></tr>
   <tr><td><a href="https://marketingplatform.google.com/about/" target="_blank"><img src="Google/Marketing.svg"></a></td><td><h4>Google Marketing Platform</h4></td><td><h4>A unified advertising and analytics platform for smarter marketing and better analytics.</h4></td></tr>
   <tr><td><a href="https://marketingplatform.google.com/about/analytics/" target="_blank"><img src="Google/Analytics.svg"></a></td><td><h4>Google Analytics</h4></td><td><h4>A tool to analyze data for your business in one place.</h4></td></tr>
