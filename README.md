@@ -1,6 +1,6 @@
 <p align=center><img src="Google/Google.png" width=7%></p>
 
-<h3 align=center>Google for Data Science, Artificial Intelligence, Data Analytics and Marketing</h3>
+<h3 align=center>Google for Data Science, AI, Data Analytics and Marketing</h3>
 
 ```html
 Blue    #4285F4
